@@ -1,0 +1,45 @@
+Student 1
+
+ID : 1872235
+Name : Ramai
+Surname : Alejandria
+Gender : M
+Total Average :30.075
+Promoted : true
+
+Student 2
+
+ID : 1894803
+Name : Jude Joy
+Surname : Kallarakal
+Gender : M
+Total Average :23.86875
+Promoted : true
+
+Student 3
+
+ID : 1904918
+Name : Nathaniele
+Surname : Tomines
+Gender : M
+Total Average :25.5125
+Promoted : true
+
+Student 4
+
+ID : 1892314
+Name : Beatrice
+Surname : Borsa
+Gender : F
+Total Average :23.85
+Promoted : true
+
+Student 5
+
+ID : 1925213
+Name : Francesca
+Surname : Mencarini
+Gender : F
+Total Average :11.1625
+Promoted : false
+
