@@ -1,0 +1,18 @@
+Ultimo Backup: 2022-04-26 16:27:02.384
+
+[Sala [codsala=1, numero_posti=1000, nome=Sala 2, citta=Pescara]
+, Sala [codsala=2, numero_posti=1000, nome=Sala 4, citta=Pescara]
+, Sala [codsala=3, numero_posti=1000, nome=Sala 6, citta=Pescara]
+, Sala [codsala=4, numero_posti=1000, nome=Sala 8, citta=Roma]
+, Sala [codsala=5, numero_posti=1000, nome=Sala 9, citta=Milano]
+, Sala [codsala=6, numero_posti=1000, nome=Sala 2, citta=Firenze]
+, Sala [codsala=7, numero_posti=1000, nome=Sala 4, citta=Firenze]
+, Sala [codsala=8, numero_posti=1000, nome=Sala 6, citta=Napoli]
+, Sala [codsala=9, numero_posti=1000, nome=Sala 8, citta=Catania]
+, Sala [codsala=10, numero_posti=1000, nome=Sala 9, citta=Cagliari]
+, Sala [codsala=11, numero_posti=1000, nome=Sala 2, citta=Roma]
+, Sala [codsala=12, numero_posti=1000, nome=Sala 4, citta=Roma]
+, Sala [codsala=13, numero_posti=1000, nome=Sala 6, citta=Pescara]
+, Sala [codsala=14, numero_posti=1000, nome=Sala 8, citta=Torino]
+, Sala [codsala=15, numero_posti=1000, nome=Sala 9, citta=Milano]
+]
